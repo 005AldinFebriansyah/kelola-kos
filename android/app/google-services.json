@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "191581378882",
+    "project_id": "data-penghuni-kos-fb5b8",
+    "storage_bucket": "data-penghuni-kos-fb5b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191581378882:android:480c9401ad40cd02dd50db",
+        "android_client_info": {
+          "package_name": "com.example.data_penghuni_kos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191581378882-8ln967pc7jqes82i94i7mukmv561i1cf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.data_penghuni_kos",
+            "certificate_hash": "7ffc77acd0bd0bb720aa08961540d926602121e7"
+          }
+        },
+        {
+          "client_id": "191581378882-d3tk0kvdf80v3517h83tlt0i9hlbrqkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMhIQKXTTCU5IYvgI0x9CUxPTShP1HGlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191581378882-d3tk0kvdf80v3517h83tlt0i9hlbrqkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
